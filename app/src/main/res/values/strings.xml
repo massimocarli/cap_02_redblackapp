@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RedBlackApp</string>
+    <string name="change_color">Change Color</string>
+    <string name="red_color">RED COLOR</string>
+    <string name="black_color">BLACK COLOR</string>
+    <string name="view_mode">VIEW MODE!!</string>
+    <string name="view">View</string>
+</resources>
